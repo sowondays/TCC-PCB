@@ -1,0 +1,51 @@
+Informação: Processando o símbolo 'C1:'.
+Informação: Processando o símbolo 'MX1:'.
+Informação: Processando o símbolo 'C2:'.
+Informação: Processando o símbolo 'MX2:'.
+Informação: Processando o símbolo 'C3:'.
+Informação: Processando o símbolo 'MX3:'.
+Informação: Processando o símbolo 'C4:'.
+Informação: Processando o símbolo 'MX4:'.
+Informação: Processando o símbolo 'C5:'.
+Informação: Processando o símbolo 'R1:'.
+Informação: Processando o símbolo 'C6:'.
+Informação: Processando o símbolo 'R2:'.
+Informação: Processando o símbolo 'C7:'.
+Informação: Processando o símbolo 'R3:'.
+Informação: Processando o símbolo 'D1:'.
+Informação: Processando o símbolo 'R4:'.
+Informação: Processando o símbolo 'D2:'.
+Informação: Processando o símbolo 'SW1:'.
+Informação: Processando o símbolo 'D3:'.
+Informação: Processando o símbolo 'U1:Package_QFP:TQFP-44_10x10mm_P0.8mm'.
+Informação: Processando o símbolo 'D4:'.
+Informação: Processando o símbolo 'USB1:'.
+Informação: Processando o símbolo 'F1:'.
+Informação: Processando o símbolo 'Y1:'.
+Adiciona U1 (footprint 'Package_QFP:TQFP-44_10x10mm_P0.8mm').
+Erro: Não é possível adicionar C1 (nenhum footprint associado).
+Erro: Não é possível adicionar C2 (nenhum footprint associado).
+Erro: Não é possível adicionar C3 (nenhum footprint associado).
+Erro: Não é possível adicionar C4 (nenhum footprint associado).
+Erro: Não é possível adicionar C5 (nenhum footprint associado).
+Erro: Não é possível adicionar C6 (nenhum footprint associado).
+Erro: Não é possível adicionar C7 (nenhum footprint associado).
+Erro: Não é possível adicionar D1 (nenhum footprint associado).
+Erro: Não é possível adicionar D2 (nenhum footprint associado).
+Erro: Não é possível adicionar D3 (nenhum footprint associado).
+Erro: Não é possível adicionar D4 (nenhum footprint associado).
+Erro: Não é possível adicionar F1 (nenhum footprint associado).
+Erro: Não é possível adicionar MX2 (nenhum footprint associado).
+Erro: Não é possível adicionar R3 (nenhum footprint associado).
+Erro: Não é possível adicionar MX4 (nenhum footprint associado).
+Erro: Não é possível adicionar R4 (nenhum footprint associado).
+Erro: Não é possível adicionar MX1 (nenhum footprint associado).
+Erro: Não é possível adicionar SW1 (nenhum footprint associado).
+Erro: Não é possível adicionar R1 (nenhum footprint associado).
+Erro: Não é possível adicionar MX3 (nenhum footprint associado).
+Erro: Não é possível adicionar USB1 (nenhum footprint associado).
+Erro: Não é possível adicionar R2 (nenhum footprint associado).
+Erro: Não é possível adicionar Y1 (nenhum footprint associado).
+
+
+Informação: Total de avisos: 0, erros: 23.
