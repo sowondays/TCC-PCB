@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/Dell/Documents/GitHub/random-keyboard-parts.pretty")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "C:/Users/Dell/Documents/GitHub/MX_Alps_Hybrid.pretty")(options "")(descr "")(disabled))
   (lib (name "keebs")(type "KiCad")(uri "C:/Users/Dell/Documents/GitHub/keebs.pretty")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "C:/Users/Dell/Documents/GitHub/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
 )
