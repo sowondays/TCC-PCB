@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/Dell/Documents/GitHub/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/Dell/Documents/GitHub/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "unnamed-3k-v2-rescue")(type "Legacy")(uri "C:/Users/Dell/Documents/GitHub/unnamed-3k-v2/PCB files/unnamed-3k-v2-cache.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid2")(type "Legacy")(uri "C:/Users/Dell/Documents/GitHub/unnamed-3k-v2/PCB files/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
